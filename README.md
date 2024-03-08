@@ -1,1 +1,1 @@
-# FMM
+# This 'FindMyRoomMate' web application has been developed using MERN stack technology. Its primary purpose is to assist international students pursuing higher education in the USA by helping them find compatible roommates and suitable accommodation. This full-stack web application includes both front-end and back-end functionalities. Ensure the installation of all necessary packages by importing node modules in the client when using this application.
